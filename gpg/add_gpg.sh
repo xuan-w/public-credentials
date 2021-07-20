@@ -1,0 +1,1 @@
+gpg --import pub.asc
